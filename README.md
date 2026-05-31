@@ -37,7 +37,7 @@ Sistem ini dirancang untuk:
 ## 👤 Author
 
 **Rendi Ramadana**  
-Vice Secretary & Vice President of Administration — IEEE Student Branch IPB  
+Vice President of Administration & Finince — IEEE Student Branch IPB  
 📧 ramadanarendi@apps.ipb.ac.id  
 🔗 [LinkedIn](https://www.linkedin.com/in/rendi-ramadana-885847320)
 
